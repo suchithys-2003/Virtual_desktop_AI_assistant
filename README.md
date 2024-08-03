@@ -1,4 +1,3 @@
----
 
 **Virtual Assistant Project README**
 
@@ -94,7 +93,5 @@ This project is a desktop virtual assistant application using Python. It provide
 
 **License:**
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 This README provides an overview, installation instructions, and usage details for your Virtual Assistant project.
